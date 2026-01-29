@@ -14,7 +14,7 @@ jobs:
           - module: "Galaxy A05s (a05snsdxx)"
             path: "prebuilts/samsung/a05snsdxx"
           - module: "Galaxy A17 (a17xxx)"
-            path: "prebuilts/samsung/a17"
+            path: "prebuilts/samsung/a17xxx"
           - module: "Galaxy A36 5G (a36xqnaxx)"
             path: "prebuilts/samsung/a36xqnaxx"
           - module: "Galaxy A52 (a52qnsxx)"
