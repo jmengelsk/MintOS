@@ -13,7 +13,7 @@ jobs:
         include:
           - module: "Galaxy A05s (a05snsdxx)"
             path: "prebuilts/samsung/a05snsdxx"
-          - module: "Galaxy A17 (a17)"
+          - module: "Galaxy A17 (a17xxx)"
             path: "prebuilts/samsung/a17"
           - module: "Galaxy A36 5G (a36xqnaxx)"
             path: "prebuilts/samsung/a36xqnaxx"
